@@ -1,0 +1,9 @@
+.tech-btn-primary{
+    background-color: #289BDE;
+    color: #ffffff;
+}
+.tech-btn-primary:hover{
+    background-color: #0076ba;
+    color: #ffffff;
+}
+
