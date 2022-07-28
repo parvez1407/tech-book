@@ -1,5 +1,6 @@
-.banner-top{
-    margin-top: 65px;
+/* common section */
+.a-section-mt{
+    margin-top: 100px;
 }
 .tech-btn-primary, .tech-primary{
     background-color: #289BDE;
@@ -9,21 +10,28 @@
     background-color: #0076ba;
     color: #ffffff;
 }
-.a-section-mt{
-    margin-top: 100px;
+
+/* header section */
+.banner-top{
+    margin-top: 65px;
 }
+
+/* courses */
 .price-color{
     color: #289BDE;
 }
 
+/* elearning section */
 .elearning-bg{
     background-color: #F4FAFD;
 }
+/* register section */
 .modal-btn-primary{
     background-color: #ffffff;
     color: #289BDE;
 }
 
+/* footer section */
 .tech-fp{
     padding: 100px 0;
 }
