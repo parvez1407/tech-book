@@ -1,4 +1,4 @@
-.tech-btn-primary{
+.tech-btn-primary, .tech-primary{
     background-color: #289BDE;
     color: #ffffff;
 }
@@ -15,5 +15,9 @@
 
 .elearning-bg{
     background-color: #F4FAFD;
+}
+.modal-btn-primary{
+    background-color: #ffffff;
+    color: #289BDE;
 }
 
